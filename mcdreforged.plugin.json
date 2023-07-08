@@ -1,0 +1,19 @@
+{
+	"id": "gamemode_switch",
+	"version": "0.0.1",
+	"name": "Gamemode Switch",
+	"description": {
+		"en_us": "A MCDReforged plugin to switch player's gamemode in game.",
+		"zh_cn": "一个可以在游戏内切换游戏模式的 MCDR 插件"
+	},
+	"author": [
+		"Magicst_Magoo"
+	],
+	"link": "https://github.com/MagooPixel/gamemode_switch",
+	"dependencies": {
+		"mcdreforged": ">=2.7.0"
+	},
+	"resources": [
+		"LICENSE"
+	]
+}
